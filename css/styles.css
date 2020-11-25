@@ -10266,3 +10266,13 @@ form .row:first-child .floating-label-form-group {
   margin-top: 1rem;
   animation:bounce 2s infinite;
 }
+
+.about-box{
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.about-item{
+  padding: 2rem;
+}
